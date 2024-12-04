@@ -1,6 +1,9 @@
 # DS-CAPSTONE2-AWS
 Capstone 2 Data Science Purwadhika. I am processing AWS SaaS transaction data.
 
+[Link Dashboard Tableau dapat dilihat di sini](https://public.tableau.com/views/AWSSaaS-Kaffatufiddin-Capstone2/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 **AWS SaaS**
 
 Software-as-a-Service (SaaS) solutions built and deployed on **Amazon Web Services (AWS)** is known as AWS SaaS. It's a cloud-based delivery model where software applications are hosted on AWS infrastructure and provided to customers over the internet. This allows businesses to access and use software applications without the need for local installation or maintenance.
